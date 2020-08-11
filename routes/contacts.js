@@ -1,5 +1,5 @@
 const express = require('express');
-conts router = express.Router();
+const router = express.Router();
 
 // @route       GET api/contacts
 // @desc        Get all users contacts
